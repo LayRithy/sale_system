@@ -1,0 +1,18 @@
+-d
+C:\\Users\\ASUS\\Documents\\NetBeansProjects\\StockManager\\build\\classes
+-classpath
+"C:\\Users\\ASUS\\Documents\\NetBeansProjects\\StockManager\\build\\classes;C:\\Users\\ASUS\\Downloads\\swing-layout-1.0.2.jar;C:\\Program Files\\netbeans\\java\\modules\\ext\\AbsoluteLayout.jar;C:\\Program Files\\sqljdbc_8.4\\enu\\mssql-jdbc-8.4.1.jre11.jar;C:\\Program Files\\sqljdbc_8.4\\enu\\mssql-jdbc-8.4.1.jre14.jar;C:\\Program Files\\sqljdbc_8.4\\enu\\mssql-jdbc-8.4.1.jre8.jar"
+-sourcepath
+C:\\Users\\ASUS\\Documents\\NetBeansProjects\\StockManager\\src
+-target
+15
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\Users\\ASUS\\Downloads\\swing-layout-1.0.2.jar;C:\\Program Files\\netbeans\\java\\modules\\ext\\AbsoluteLayout.jar;C:\\Program Files\\sqljdbc_8.4\\enu\\mssql-jdbc-8.4.1.jre11.jar;C:\\Program Files\\sqljdbc_8.4\\enu\\mssql-jdbc-8.4.1.jre14.jar;C:\\Program Files\\sqljdbc_8.4\\enu\\mssql-jdbc-8.4.1.jre8.jar;C:\\Users\\ASUS\\Documents\\NetBeansProjects\\StockManager\\build\\empty"
+-s
+C:\\Users\\ASUS\\Documents\\NetBeansProjects\\StockManager\\build\\generated-sources\\ap-source-output
+-source
+15
+C:\\Users\\ASUS\\Documents\\NetBeansProjects\\StockManager\\src\\stockmanager\\StockManager.java
